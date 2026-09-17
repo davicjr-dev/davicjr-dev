@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- gerado:capa -->
+
+<img src="assets/github-cover.png" width="100%"
+     alt="davicjr-dev — creative developer / builder / learner">
+<!-- /gerado:capa -->
+
 # Davi Costa Júnior
 
 **Analista de Dados Júnior**
